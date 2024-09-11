@@ -1,27 +1,45 @@
-Constellation Network's metagraph technology is powerful.
+# Constex Xlam
 
-To make it more popular, it is necessary to have some support utilities.
+Excel Xlam add-on to simplify installations and useful functions related to Constellation Network's technology
 
-Constex Xlam is one such support utility.
+Project by Lalit + Vishnu + Laxmi Patel, submitted to the Constellation Metagraph Hackathon 2024
 
-It uses the popular Excel platform.
+# YouTube Video
 
-As an Xlam file placed in an XLSTART folder, it is available whenever Excel program is opened.
+https://www.youtube.com/watch?v=d9HPfvG1QSg
 
-This Xlam appears as Constex menu on Excel's menubar.
+# DevPost Submission
 
-When Constex menu is clicked, Constex ribbonbar appears.
+https://devpost.com/software/constex-xlam
 
-This ribbonbar has buttons for several useful macros.
+## Inspiration
 
-At this stage, macros are still under construction.
+Constellation Network's Hypergraph and metagraphs technology is powerful. We felt that it is necessary to have some support utilities to make this technology user friendly and more popular.
 
-Info button gives a window with information about the macros.
+## What it does
 
-Docker, GitHub, Euclid, Metagraph, Dashboard, and SampleUI buttons are for installing these items.
+Constex Xlam is an Excel add-on, which uses the popular Excel software and VBA language. Constex.xlam file may be placed in the system's or the user's XLSTART folder. If placed in an XLSTART folder, Constex menu shows up on the menubar, whenever Excel program is opened. When Constex menu is clicked, Constex ribbonbar shows up below the menubar.
 
-Nodes, Walltets, Transacts, Periods, and Incidents buttons in the Reports group generate Excel spreadsheet reports.
+This ribbonbar has buttons for several useful macros. Info button gives a window with information about the macros. Nodes, Wallets, Transacts, Periods, and Incidents buttons in the Reports group generate Excel spreadsheet reports. Install, SetWallet, BuyDAG, SendDAG, CreateForm, and SendData buttons in the Activities group carry out these procedures.
 
-Similar buttons in the Statistics group generate statistics and charts.
+At this stage, Nodes macro is ready, and other macros are being developed.
 
-SetWallet, BuyDAG, SendDAG, CreateForm, and SendData buttons carry out these procedures.
+## How we built it
+
+We used Excel's Visual Basic for Applications, CustomUI methods, and some Xml.
+
+## Challenges we ran into
+
+We did not have adequate time left to develop more macros for this Xlam. 
+
+## Accomplishments that we're proud of
+
+The Constex ribbonbar is well-organized, and is likely to make this utility popular.
+
+## What we learned
+
+We learned Constellation Network's Hypergraph and metagraphs technology.
+
+## What's next for Constex Xlam
+
+We will build the remaining macros, and add macros as may be requested by users.
