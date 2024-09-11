@@ -6,7 +6,7 @@ Project by Lalit + Vishnu + Laxmi Patel, submitted to the Constellation Metagrap
 
 # YouTube Video
 
-https://www.youtube.com/watch?v=d9HPfvG1QSg
+https://www.youtube.com/watch?v=Rz2JLKTTUQY
 
 # DevPost Submission
 
